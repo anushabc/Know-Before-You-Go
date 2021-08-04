@@ -12,3 +12,11 @@ Current [AIW - DevOps](https://experience.cloudlabs.ai/#/labguidepreview/fe7186f
 
 While creating Host Pool, there are new options avaiable in UI, lab guide UI is outdated with slight chnages in UI, Updates with new UI are in progress. Along with UI few instructions will also being updates in lab guide.
   * **Expected Release Date**: 06 August 2021
+
+
+### Azure Immersion Workshop : Analytics (Updated on 02 August 2021)
+
+New Tasks and steps has been included in Exercise 1, Exercise 2, Exercise 5.
+
+
+
